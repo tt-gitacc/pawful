@@ -1,0 +1,3 @@
+# pawful
+This is a web application called Pawful. It was written in HTML, CSS, PHP and SQL. You can access it by downloading the files in this repository and installing XAMPP. Once you download the repository, you can do the following: register to be a member, log in to the application, sign up for an event, remove yourself from an event or search for a dog by its breed.
+Installation and configuration methods can be found within Instructions.pdf.
